@@ -1,59 +1,42 @@
 ---
-email: okay@samesies.io
-baseurl: ''
-paginate: 12
-paginate_path: "/page/:num"
-permalink: "/:year/:month/:day/:title/"
-google_analytics: 
-name: Thomas Vaeth
-title: The Barber Theme
-description: 'Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies
-  using HTML, Sass, and JavaScript.
-
-'
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
-default_img: "/assets/images/seo.jpg"
+title: Freelancer
+email: your-email@domain.com
+description: Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+keywords: your keywords, separated by commas
+skills: Web Developer - Graphic Artist - User Experience Designer
+meta_author: LastName FirstName
+google_verify: 
+bing_verify: 
+contact: static
+disqus_shortname: myshortname
+color:
+  primary: 18bc9c
+  primary-rgb: '24,288,156'
+  secondary: 2c3e50
+  secondary-dark: 233140
+footer:
+  copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+  credits: Credits
 social:
-- name: twitter
-  url: https://twitter.com/thomasvaeth
-- name: instagram
-  url: https://www.instagram.com/thomas.vaeth/
-- name: linkedin
-  url: https://www.linkedin.com/in/thomasvaeth/
-- name: github
-  url: https://github.com/samesies
-- name: codepen
-  url: https://codepen.io/thomasvaeth/
-contact_img: "/assets/images/placeholder-28.jpg"
-formcarry: https://formcarry.com/s/HkIo0nMb7
-disqus: test-apkdzgmqhj
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
-author:
-- name: Thomas Vaeth
-  bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted
-    in Washington. He was a Web Developer at Urban Influence, but now he's a Software
-    Engineer at Getty Images.
-  url: http://thomasvaeth.com
+- title: twitter
+  url: http://twitter.com/jekyllrb
+- title: facebook
+  url: 
+- title: stack-overflow
+  url: http://stackoverflow.com/questions/tagged/jekyll
+- title: bitbucket
+  url: http://bitbucket.org/jekyll
+- title: github
+  url: http://github.com/jekyll
+address:
+- line: 3481 Melrose Place
+- line: Beverly Hills, CA 90210
+credits: Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start
+  Bootstrap</a>.
 markdown: kramdown
-plugins:
-- jekyll-paginate
-- jekyll-sitemap
-compress_html:
-  clippings: all
-  comments: all
-  startings:
-  - html
-  - head
-  - body
-exclude:
-- node_modules
-- ".DS_Store"
-- barber.jpg
-- Gemfile
-- Gemfile.lock
-- gulpfile.js
-- package.json
-- README.md
+permalink: pretty
 timezone: Etc/UTC
