@@ -1,0 +1,28 @@
+---
+label: default
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  description: layout of the post
+- type: text
+  label: title
+  name: title
+  description: title of the post
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: text
+  name: author
+  label: author
+- type: tag_list
+  name: tags
+  label: tags
