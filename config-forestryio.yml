@@ -1,6 +1,6 @@
 ---
 email: okay@samesies.io
-baseurl: ''
+baseurl: "/portfolio"
 paginate: 12
 paginate_path: "/page/:num"
 permalink: "/:year/:month/:day/:title/"
