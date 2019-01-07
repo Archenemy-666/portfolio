@@ -27,3 +27,5 @@ fields:
 - type: tag_list
   name: tags
   label: tags
+pages:
+- _posts/ann.md
