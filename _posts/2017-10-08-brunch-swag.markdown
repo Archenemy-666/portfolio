@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brunch Swag
+title: cat
 date: 2017-10-08 00:00:00 +0000
 description: 
 image: /assets/images/placeholder-15.jpg
