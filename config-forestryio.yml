@@ -55,4 +55,4 @@ exclude:
 - gulpfile.js
 - package.json
 - README.md
-timezone: Etc/UTC
+timezone: Asia/Kolkata
