@@ -24,6 +24,7 @@ fields:
 - type: text
   name: author
   label: author
+  default: SIDDHARTH
 - type: tag_list
   name: tags
   label: tags
