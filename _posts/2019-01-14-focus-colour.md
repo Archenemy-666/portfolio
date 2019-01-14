@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FOCUS COLOUR
-date: ''
+date: 2019-01-14 00:00:00 +0530
 description: ''
 image: "/portfolio/uploads/color eye.jpg"
 author: ''
