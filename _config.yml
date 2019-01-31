@@ -11,13 +11,13 @@ title: portfolio
 description: >
   List of my ongoing work and interests.
 url: http://chatla-siddharth.github.io
-twitter_username: thomasvaeth
+#twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
 # - name: twitter
 #    url: https://twitter.com/thomasvaeth
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/siddharth98_uchiha/
   - name: linkedin
     url: https://www.linkedin.com/in/siddarth-chatla-a71664133/
   - name: github
