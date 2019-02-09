@@ -6,8 +6,8 @@
 </description>
     <link>/portfoliohttp://chatla-siddharth.github.io</link>
     <atom:link href="http://chatla-siddharth.github.io/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Feb 2019 02:33:29 +0000</pubDate>
-    <lastBuildDate>Sat, 09 Feb 2019 02:33:29 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Feb 2019 02:34:08 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Feb 2019 02:34:08 +0000</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -28,6 +28,17 @@
         <pubDate>Fri, 08 Feb 2019 18:30:00 +0000</pubDate>
         <link>http://chatla-siddharth.github.io/portfolio/2019/02/08/T3/</link>
         <guid isPermaLink="true">http://chatla-siddharth.github.io/portfolio/2019/02/08/T3/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Starry Night</title>
+        <description>
+</description>
+        <pubDate>Fri, 08 Feb 2019 18:30:00 +0000</pubDate>
+        <link>http://chatla-siddharth.github.io/portfolio/2019/02/08/Starry-Night/</link>
+        <guid isPermaLink="true">http://chatla-siddharth.github.io/portfolio/2019/02/08/Starry-Night/</guid>
         
         
       </item>
