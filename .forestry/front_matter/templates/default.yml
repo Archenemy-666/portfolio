@@ -29,6 +29,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/VIBGYOR.md
 - _posts/2019-01-14-bleeding-black.md
 - _posts/2019-01-15-fly.md
 - _posts/2019-01-16-elder-wand.md
