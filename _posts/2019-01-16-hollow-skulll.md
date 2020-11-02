@@ -2,9 +2,10 @@
 layout: post
 author: SIDDHARTH
 title: hollow skulll
-date: 2019-01-16 13:44:00 +0530
+date: 2019-01-16T13:44:00.000+05:30
 description: ''
 image: "/portfolio/uploads/skull .jpg"
-tags: []
+tags:
+- 'pencil sketch '
 
 ---
